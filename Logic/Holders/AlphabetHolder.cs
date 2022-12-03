@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace ТЯПиМТ
+﻿namespace ТЯПиМТ
 {
     /// <summary>
     /// Инкапсулирует взаимодействие с алфавитами

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace ТЯПиМТ
+﻿namespace ТЯПиМТ
 {
     /// <summary>
     /// Анализатор 6 лабы. То же самое, что и 3 лаба, но добавлена проверка на одинаковые числа в тексте.

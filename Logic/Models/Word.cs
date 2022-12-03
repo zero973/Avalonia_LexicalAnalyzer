@@ -3,12 +3,24 @@
     public class Word
     {
 
+		/// <summary>
+		/// Номер стратегии, к которой относится слово
+		/// </summary>
         public int WordStrategyNumber { get; set; }
 
+		/// <summary>
+		/// Значение
+		/// </summary>
         public string Value { get; set; }
 
+		/// <summary>
+		/// Контекст слова в тексте
+		/// </summary>
         public Context Context { get; set; }
 
+		/// <summary>
+		/// Хэш
+		/// </summary>
         public int Hash { get; set; }
 
         public Word(int wordStrategyNumber, string value, Context context)

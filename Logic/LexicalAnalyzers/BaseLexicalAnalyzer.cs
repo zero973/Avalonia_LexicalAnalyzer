@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace ТЯПиМТ
+﻿namespace ТЯПиМТ
 {
     public class BaseLexicalAnalyzer
     {
@@ -62,6 +58,11 @@ namespace ТЯПиМТ
             return result;
         }
 
+		/// <summary>
+		/// Получить слова из текста
+		/// </summary>
+		/// <param name="text">Текст</param>
+		/// <returns>Список слов</returns>
         protected virtual List<Word> GetWordsFromText(string text)
         {
             var result = new List<Word>();

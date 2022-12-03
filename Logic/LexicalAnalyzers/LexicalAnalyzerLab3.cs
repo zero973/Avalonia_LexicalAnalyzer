@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace ТЯПиМТ
+﻿namespace ТЯПиМТ
 {
     /// <summary>
     /// Анализатор третьей лабы. Удаление комментариев и проверка на соответствие слов регулярной граммтике.

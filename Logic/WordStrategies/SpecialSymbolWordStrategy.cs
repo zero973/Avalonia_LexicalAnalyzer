@@ -1,6 +1,4 @@
-﻿using System.Linq;
-
-namespace ТЯПиМТ
+﻿namespace ТЯПиМТ
 {
     /// <summary>
     /// Стратегия для слов, состоящих только из спец. символов

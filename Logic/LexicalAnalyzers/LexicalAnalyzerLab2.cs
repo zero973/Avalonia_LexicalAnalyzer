@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-
-namespace ТЯПиМТ
+﻿namespace ТЯПиМТ
 {
     /// <summary>
     /// Анализатор второй лабы. Удаление комментариев и проверка на соответствие слов регулярной граммтике.

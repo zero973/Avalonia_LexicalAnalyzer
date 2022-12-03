@@ -3,8 +3,14 @@
     public class Symbol
     {
 
+		/// <summary>
+		/// Значение
+		/// </summary>
         public char Value { get; set; }
 
+		/// <summary>
+		/// Тип
+		/// </summary>
         public SymbolTypes Type { get; set; }
 
         public Symbol()

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ТЯПиМТ
+﻿namespace ТЯПиМТ
 {
     /// <summary>
     /// Стратегия для слова (000)*101(110)*

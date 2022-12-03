@@ -45,6 +45,11 @@ namespace ТЯПиМТ
             return result.ToString();
         }
 
+		/// <summary>
+		/// Конвертирует число из двоичной системы счисления в десятичную
+		/// </summary>
+		/// <param name="number">Двоичное число</param>
+		/// <returns>Число в 10 СС</returns>
         private int ConvertToDecimal(string number)
         {
             var decimalNumber = 0;
